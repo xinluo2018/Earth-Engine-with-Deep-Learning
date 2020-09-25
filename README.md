@@ -5,8 +5,9 @@
 ~~~
 ├── README.md
 ├── dataPreparation
-|   ├── dataPred.ipynb
-|   └── dataTrain.ipynb
+|   ├── dataTrain.ipynb
+|   └── dataPred.ipynb
+|   └── dataPred_main.ipynb
 ├── models
 |   ├── pretrain
 |   └── ai_platform_deploy.ipynb
@@ -17,8 +18,9 @@
 |   └── trainer_ai_platform.ipynb
 |   └── trainer_colab.ipynb
 ├── infer
-|   └── infer_colab.ipynb
 |   └── infer_onLine.ipynb
+|   └── infer_colab.ipynb
+|   └── infer_colab_main.ipynb
 └── utils.ipynb
 └── utils.py
 ~~~
